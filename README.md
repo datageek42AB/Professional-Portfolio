@@ -17,7 +17,7 @@ Compare multiple approaches to image classification and compare the accurace and
  * Naive Bayes
 
 ## Mentoring Materials
-The contexts of this folder contains the solutions for SQL training programs I have implemented in the past for those new to SQL at AmerisourceBergen. These were created for testers who required a greater understanding of SQL for client analytics testing
+The contents of this folder contains the solutions for SQL training programs I have implemented in the past for those new to SQL at AmerisourceBergen. These were created for testers who required a greater understanding of SQL for client analytics testing
 
 ## Predicted Investment Opportunities
 Thie project utilized time series analysis along with other techniques to assess historical housing & real estate data and forceast average median housing value by zipcode for 2018. 
