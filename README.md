@@ -37,16 +37,7 @@ This folder contains query samples I have anonymized from previous efforts. Many
 This project is my formal submission for the Kaggle **Titanic - Machine Learning from Disaster** competition. For this effort I went above and beyond the required predictive analytics to truly vizualize all aspects of the data prior to building a model. 
 
 ## US Vaccination Rates
-Analyize vaccination rates for the top 5 vaccincations over time in the US from 1980 - 2017. Integrate data from California Kindergartens from 2013 and data from California School district reporting to answer the following questions:
- 1. Which vaccine had the greatest volatility
- 2. What proportion of public vs private schools reported vaccination data?
- 3. Was there any credible difference in overall reporting proportions between public and private schools?
- 4. How do these rates for individual vaccines in California districts compare with overall US vaccination rates (make an informal comparison to the final observations in the time series)?
- 5. Among districts, how are the vaccination rates for individual vaccines related? In other words, if students are missing one vaccine are they missing all of the others?
- 6. What variables predict whether or not a district’s reporting was complete?
- 7. What variables predict the percentage of all enrolled students with completely up-to-date vaccines?
- 8. What variables predict the percentage of all enrolled students with belief exceptions?
- 9. What’s the big picture, based on all of the foregoing analyses? The staff member in the state legislator’s office is interested to know how to allocate financial assistance to school districts to improve both their vaccination rates and their reporting compliance. What have you learned from the data and analyses that might inform this question?
+Analyize vaccination rates for the top 5 vaccincations over time in the US from 1980 - 2017. Integrate data from California Kindergartens from 2013 and data from California School district reporting to answer a myriad of questions.
 
 ### Techniques Utilized: 
  * Difference over time
