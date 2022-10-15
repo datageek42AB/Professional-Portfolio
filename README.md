@@ -1,13 +1,13 @@
 # Professional-Portfolio
 
-## Coaching Pay Analysis:
+## I. Coaching Pay Analysis:
 Gather data from multiple sources on coaching pay data for college football programs across the country and answer a myriad of questions.
 
 ### Techniques Utilized:
 * Descriptive Analytics
 * Multivariate Linear Regression
 
-## Image Recognition & Classification
+## II. Image Recognition & Classification
 Compare multiple approaches to image classification and compare the accurace and trade-offs of each approach.  
 ### Techniques utilized were:  
  * Neural Network
@@ -16,10 +16,10 @@ Compare multiple approaches to image classification and compare the accurace and
  * Decision Tree
  * Naive Bayes
 
-## Mentoring Materials
+## III. Mentoring Materials
 The contents of this folder contains the solutions for SQL training programs I have implemented in the past for those new to SQL at AmerisourceBergen. These were created for testers who required a greater understanding of SQL for client analytics testing
 
-## Predicted Investment Opportunities
+## IV. Predicted Investment Opportunities
 Thie project utilized time series analysis along with other techniques to assess historical housing & real estate data and forceast average median housing value by zipcode for 2018. 
 ### Techniques utilized:
  * Time series analysis
@@ -27,13 +27,13 @@ Thie project utilized time series analysis along with other techniques to assess
  * ADFuller Stationarity Test
  * ARIMA
 
-## SQL Query Samples
+## V. SQL Query Samples
 This folder contains query samples I have anonymized from previous efforts. Many are related to ADO & TFS Warehouse dashboard development to assist in monitoring team performance.  
 
-## Titanic
+## VI. Titanic
 This project is my formal submission for the Kaggle **Titanic - Machine Learning from Disaster** competition. For this effort I went above and beyond the required predictive analytics to truly vizualize all aspects of the data prior to building a model. 
 
-## US Vaccination Rates
+## VII. US Vaccination Rates
 Analyize vaccination rates for the top 5 vaccincations over time in the US from 1980 - 2017. Integrate data from California Kindergartens from 2013 and data from California School district reporting to answer a myriad of questions.
 
 ### Techniques Utilized: 
@@ -48,7 +48,7 @@ Analyize vaccination rates for the top 5 vaccincations over time in the US from 
  * Bayesian Estimation of Logistic Regression
  * Frequentist Analysis
 
-## Womens Clothing in ECommerce
+## VIII. Womens Clothing in ECommerce
 Utilize various data analytics techniques to understand how online retailers could increase sales and market share for women's clothing products.
 
 ### Techniques Utilized:
