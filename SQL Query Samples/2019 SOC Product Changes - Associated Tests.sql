@@ -37,7 +37,7 @@ and wi.System_IsDeleted = 0
 and wi.Microsoft_VSTS_Common_ClosedDate >= '2018-09-01'
 and (wi.Microsoft_VSTS_Common_ClosedDate < '2019-06-14'
 	OR (wi.Microsoft_VSTS_Common_ClosedDate < '2019-08-01' 
-		and (wi.Infinisource_VSTS_EnvironmentFoundIn <> 'RCQA' or wi.System_Title not like '%QAB%')
+		and (wi.NAME_VSTS_EnvironmentFoundIn <> 'RCQA' or wi.System_Title not like '%QAB%')
 		and wi.AOS_VSTS_HotfixVersion IS NOT NULL
 		and wi.AOS_VSTS_HotfixVersion < '6.2' or (wi.AOS_VSTS_HotfixVersion IS NOT NULL and wi.AreaPath like '%Tax Forms Client%')
 		)
