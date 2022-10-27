@@ -718,3 +718,10 @@ left join [X].dimConsentOptPreference pref on pref.Dimension4_ID = p.Dimension4_
 	and pref.DW_Current_Record = 1
 order by p.Dimension4_ID;
 
+--Store Site into $(QVDPath)\Dim_DispDim1.qvd;
+--Store PatientCase into $(QVDPath)\Dim_PDim2.qvd;
+--Store SiteReps into $(QVDPath)\Dim_Dim3.qvd;
+
+--DROP TABLE ABC;
+--DROP TABLE DEF;
+--DROP TABLE GHI;
